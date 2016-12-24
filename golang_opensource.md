@@ -5,6 +5,7 @@
 #算法库
 * 最长前缀匹配：		https://github.com/armon/go-radix
 * 布龙过滤器：		https://github.com/irfansharif/cfilter
+* OPENCV:       https://github.com/lazywei/go-opencv
 
 #系统控制库
 * 进程监控 https://github.com/smbrave/gosupvervisor
