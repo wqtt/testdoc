@@ -7,3 +7,7 @@
 * 布龙过滤器：		https://github.com/irfansharif/cfilter
 
 #系统控制库
+* 进程监控 https://github.com/smbrave/gosupvervisor
+
+#工具库
+* 多线程下载工具 https://github.com/WayneZhouChina/goxel
