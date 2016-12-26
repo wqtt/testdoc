@@ -12,3 +12,6 @@
 
 #工具库
 * 多线程下载工具 https://github.com/WayneZhouChina/goxel
+
+# windows库
+* windows 服务：https://github.com/kardianos/service
